@@ -1,0 +1,39 @@
+{
+  "notes": [
+    {
+      "title": "Title 11",
+      "content": "note 12\n",
+      "isDone": true,
+      "isArchived": false,
+      "id": 1
+    },
+    {
+      "title": "title 3",
+      "content": "some text",
+      "isDone": false,
+      "isArchived": true,
+      "id": 3
+    },
+    {
+      "title": "title 4",
+      "content": "note 4\n",
+      "isDone": true,
+      "isArchived": true,
+      "id": 4
+    },
+    {
+      "title": "note 5",
+      "content": "text 5",
+      "isDone": false,
+      "isArchived": true,
+      "id": 5
+    },
+    {
+      "title": "dsad",
+      "content": "asdsadsa",
+      "isDone": false,
+      "isArchived": false,
+      "id": 6
+    }
+  ]
+}
